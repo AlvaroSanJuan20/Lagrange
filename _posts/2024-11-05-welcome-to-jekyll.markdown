@@ -3,7 +3,7 @@ layout: post
 title:  "Las liricas de Waka Waka (This is for Africa)"
 date:   2024-11-05 09:35:56 +0100
 categories: jekyll update
-image: sheldoncooper.jpg
+image: sheldoncoope.jpg
 ---
 
 You're a good soldier, choosing your battles
